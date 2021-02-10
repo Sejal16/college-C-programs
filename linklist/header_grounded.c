@@ -1,4 +1,5 @@
-//  HEADER LINKLIST means that the head/start pointer will not be equal to the first node.Before the first node we descrbe one //  more node where we can store any information related to our list
+//  HEADER LINKLIST means that the head/start pointer will not be equal to the first node.Before the first node we describe one more node where we can store any information
+//  related to our list
 //   eg: no of nodes/largest number
 // Two types of header ll:
 //		GROUNDED HEADER LINKLIST
